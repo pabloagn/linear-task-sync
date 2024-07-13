@@ -22,3 +22,6 @@
 
 # Ignore the project label mappings
 project_label_mappings.json
+
+# Ignore previous versions
+legacy/
