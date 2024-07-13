@@ -1,0 +1,24 @@
+# Ignore build output
+/dist/
+
+# Ignore dependencies
+/node_modules/
+
+# Ignore environment-specific files
+.env
+
+# Ignore TypeScript compilation artifacts
+*.js
+*.js.map
+
+# Ignore editor-specific files
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore any other generated files or folders
+.DS_Store
+
+# Ignore the project label mappings
+project_label_mappings.json
