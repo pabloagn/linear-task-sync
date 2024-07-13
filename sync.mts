@@ -359,6 +359,3 @@ async function syncTasks() {
 }
 
 syncTasks().catch(error => console.error('Unhandled error:', error));
-
-
-syncTasks().catch(error => console.error('Unhandled error:', error));
